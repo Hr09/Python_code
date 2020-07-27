@@ -1,4 +1,5 @@
 s="baab"
+#you can use input fuction insted
 s=[s[i] for i in range(len(s))]
 i=1
 sr=''
